@@ -9,7 +9,7 @@ Final-year B.Tech CSE (Artificial Intelligence) student with a strong interest i
 
 Skills
 - Business Intelligence:Power BI, Microsoft Excel
-- Data Analysis:** SQL, Python, Pandas, EDA, Data Visualization, Dashboarding
+- Data Analysis: SQL, Python, Pandas, EDA, Data Visualization, Dashboarding
 - Tools: GitHub, Jupyter Notebook, Google Colab
 
 ---
